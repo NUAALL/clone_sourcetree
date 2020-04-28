@@ -1,1 +1,3 @@
-source tree first test.tag test 001
+source tree first test.
+tag test 001
+tag test 002
